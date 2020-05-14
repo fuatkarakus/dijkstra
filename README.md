@@ -1,4 +1,4 @@
-# The Shortest Path Between Certian Cities
+# The Shortest Path Between Certain Cities
 
 ### Project Information
 
