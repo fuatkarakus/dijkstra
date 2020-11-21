@@ -19,7 +19,7 @@
         <commons.io>2.6</commons.io>
         <poi>4.1.2</poi>
         <poi-ooxml>4.1.2</poi-ooxml>
-        <junit>4.13</junit>
+        <junit>4.13.1</junit>
     </properties>
 
     <dependencies>
